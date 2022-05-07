@@ -1,0 +1,39 @@
+body {
+    font: 20px;
+    font-family: Helvetica, sans-serif;
+}
+
+.navbar {
+    background-color: #F2BF5E;
+    font-size: x-large;
+}
+
+.quem-somos {
+    background-color: #BF7C2A;
+    color: #400904;
+}
+
+.servicos {
+    background-color: #BF7C2A;
+    color: #400904;
+}
+
+.margin {
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.parceiros {
+    background-color: white;
+}
+
+.bg-footer {
+    background-color: #7e4500;
+    color: #400904;
+    font-style: italic;
+}
+
+h3 {
+    padding-top: 20px;
+    font-weight: bold;
+}
